@@ -1,0 +1,61 @@
+/* 24/05/2020*/
+body{
+    padding: 5%;
+    background-color: linen;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+#image-logo{
+
+    padding-bottom: 3%;
+}
+
+
+
+
+#form-login{
+    font-size: 11px;
+
+    
+}
+
+#bnt-acessar{
+
+    width: 200px;
+    height: 32px;
+    background-color: rgb(61, 167, 78);
+    border-style: solid;
+    border-color: rgb(61, 167, 78);
+    font-weight: bolder;
+    color: oldlace;
+}       
+
+input[type=text]{
+
+    width: 230px;
+    height: 20px;
+    text-align: center;
+}
+
+input[type=password]{
+    width: 230px;
+    height: 20px;
+    text-align: center;
+}
+p{
+    font-size: 13px;
+    height: 10px;
+
+}
+#no-acesso{
+    padding-top: 60px;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+footer{
+    padding-top: 25px;
+    font-size: 14px;
+    font-style: italic;
+}
+   
